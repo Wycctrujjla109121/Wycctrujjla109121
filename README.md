@@ -29,10 +29,10 @@
 </div>
 
 ### :monocle_face: Контакты и что посмотреть:
-<a target="_blank" href="https://t.me/ILLIDAN109" title="Telegram">
+<a href="https://t.me/ILLIDAN109" title="Telegram">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVma3dtM3Q5eDI4dzhvejc0Y2VhcWJoeTlydnl0bTd4ZGhvdjl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif" width="25"/>
 </a>
-<a target="_blank" href="https://vercel.com/wycctrujjla109121s-projects" title="Сюда выкладываю иногда что-то прикольное" >
+<a href="https://vercel.com/wycctrujjla109121s-projects" title="Сюда выкладываю иногда что-то прикольное" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" width="25"/>
 </a>
 
